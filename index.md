@@ -1,7 +1,8 @@
 ---
 ciao: 17/203157
 mamma: 17/462963
-papà: 17/496568
+papa: 17/496568
+
 ---
 
 ### ciao
@@ -12,7 +13,7 @@ papà: 17/496568
 
 {% include signVideo.html id=page.mamma %}
 
-### papà
+### papa
 
-{% include signVideo.html id=page.papà %}
+{% include signVideo.html id=page.papa %}
 
