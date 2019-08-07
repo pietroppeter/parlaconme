@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### test video insert
+
+<video class="js-enforce-speed" src="https://media.spreadthesign.com/video/mp4/17/462963.mp4" poster="https://media.spreadthesign.com/video/jpg/17/462963.jpg" width="320" height="240" muted="" loop="" autoplay="" playsinline="">
+    </video>
