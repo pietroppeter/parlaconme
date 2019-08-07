@@ -38,13 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### test video insert
 
-<div class="embed-container">
-  <iframe
-      width="320"
-      height="240"
-      muted="" loop="" autoplay="" playsinline=""
-      src="https://media.spreadthesign.com/video/mp4/17/462963.mp4"
-      frameborder="0"
-      allowfullscreen="">
-  </iframe>
-</div>
+{% include signVideo.html %}
