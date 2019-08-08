@@ -6,6 +6,8 @@ stanco: 17/177630
 
 ---
 
+{% include toc.html html=content %}
+
 ### ciao
 
 {% include signVideo.html id=page.ciao %}
