@@ -38,6 +38,10 @@ stanco: 17/177630
 
 {% include signVideo.html id="17/192286" %}
 
+## zia
+
+{% include signVideo.html id="17/497030" %}
+
 # stati d'animo
 
 ## stanco
@@ -49,3 +53,8 @@ stanco: 17/177630
 ## ancora
 
 {% include signVideo.html id="17/445493" %}
+
+## finito
+
+{% include signVideo.html id="17/461626" %}
+
