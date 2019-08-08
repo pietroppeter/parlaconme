@@ -12,6 +12,14 @@ stanco: 17/177630
 
 {% include signVideo.html id=page.ciao %}
 
+## buongiorno
+
+{% include signVideo.html id="17/496865" %}
+
+## buona notte
+
+{% include signVideo.html id="17/497990" %}
+
 # persone
 
 ## mamma
