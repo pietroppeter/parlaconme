@@ -6,21 +6,25 @@ stanco: 17/177630
 
 ---
 
-{% include toc.html html=content %}
+# saluti
 
-### ciao
+## ciao
 
 {% include signVideo.html id=page.ciao %}
 
-### mamma
+# persone
+
+## mamma
 
 {% include signVideo.html id=page.mamma %}
 
-### papa
+## papa
 
 {% include signVideo.html id=page.papa %}
 
-### stanco
+# stati d'animo
+
+## stanco
 
 {% include signVideo.html id=page.stanco %}
 
