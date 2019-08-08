@@ -42,6 +42,20 @@ stanco: 17/177630
 
 {% include signVideo.html id="17/497030" %}
 
+## maschio
+
+{% include signVideo.html id="17/465955" %}
+
+## femmina
+
+{% include signVideo.html id="17/206633" %}
+
+# cibo
+
+## latte
+
+{% include signVideo.html id="17/177968" %}
+
 # stati d'animo
 
 ## stanco
