@@ -22,6 +22,14 @@ stanco: 17/177630
 
 {% include signVideo.html id=page.papa %}
 
+## nonno
+
+{% include signVideo.html id="17/192285" %}
+
+## nonna
+
+{% include signVideo.html id="17/192286" %}
+
 # stati d'animo
 
 ## stanco
