@@ -56,6 +56,36 @@ stanco: 17/177630
 
 {% include signVideo.html id="17/177968" %}
 
+# azioni
+
+## cantare
+
+{% include signVideo.html id="17/147093" %}
+
+## mangiare
+
+{% include signVideo.html id="17/444409" %}
+
+## nuotare
+
+{% include signVideo.html id="17/177569" %}
+
+## sciare
+
+{% include signVideo.html id="17/180658" %}
+
+## dormire
+
+{% include signVideo.html id="17/177406" %}
+
+## bere
+
+{% include signVideo.html id="17/496767" %}
+
+## applaudire
+
+{% include signVideo.html id="17/203019" %}
+
 # stati d'animo
 
 ## stanco
