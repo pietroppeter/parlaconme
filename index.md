@@ -102,3 +102,8 @@ stanco: 17/177630
 
 {% include signVideo.html id="17/461626" %}
 
+# oggetti
+
+## libro
+
+{% include signVideo.html id="17/125683" %}
