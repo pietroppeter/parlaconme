@@ -60,6 +60,18 @@ stanco: 17/177630
 
 {% include signVideo.html id="17/178226" %}
 
+## mela
+
+{% include signVideo.html id="17/177340" %}
+
+## pera
+
+{% include signVideo.html id="17/444937" %}
+
+## banana
+
+{% include signVideo.html id="17/177364" %}
+
 # azioni
 
 ## cantare
@@ -115,3 +127,7 @@ stanco: 17/177630
 ## libro
 
 {% include signVideo.html id="17/125683" %}
+
+## cucchiaio
+
+{% include signVideo.html id="17/497340" %}
